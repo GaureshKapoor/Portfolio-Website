@@ -2,7 +2,7 @@ import SectionLayout from "@/components/SectionLayout";
 import AboutContent from "@/components/content/AboutContent";
 
 const AboutPage = () => (
-  <SectionLayout>
+  <SectionLayout wide>
     <AboutContent />
   </SectionLayout>
 );

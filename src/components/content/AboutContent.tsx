@@ -21,7 +21,7 @@ const principles = [
 const AboutContent = () => {
   return (
     <Reveal>
-      <div className="flex flex-col sm:flex-row gap-8 md:gap-10">
+      <div className="flex flex-col sm:flex-row gap-10 md:gap-14">
         <RevealItem className="shrink-0">
           <ProfileAvatar className="w-52 h-52 md:w-64 md:h-64" />
         </RevealItem>
@@ -32,8 +32,8 @@ const AboutContent = () => {
             <div className="mt-4 space-y-4 text-[15px] text-muted-foreground leading-relaxed">
               <p>
                 Hi, I'm Gauresh 👋. Equal parts engineer and operator, I build AI products at the
-                intersection of data and business, and love owning the full product lifecycle.
-                I am curious, ambitious, constantly learning, and obsessed with building what's next.
+                intersection of data and business, and enjoy owning the full product + delivery
+                lifecycle. I am curious, ambitious, and obsessed with building what's next.
               </p>
               <p>
                 At <A href="https://www.pwc.com">PwC</A> Deals, I work within the Technology & Data
@@ -46,7 +46,7 @@ const AboutContent = () => {
               </p>
               <p>
                 Previously, I built GenAI products at <A href="https://www.zetaglobal.com">Zeta Global</A>{" "}
-                and worked on FinTech product strategy at <A href="https://www.clear.in">Clear</A>.
+                and worked on FinTech product strategy at <A href="https://www.clear.in">ClearTax</A>.
                 Outside of work, I build and ship full-stack AI products from zero to one, most
                 recently <A href="https://joinvault.app">Vault</A>, an agentic AI app for ideation;{" "}
                 <A href="https://ionava.com">Ionava</A>, an angel-backed fintech platform for health

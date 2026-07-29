@@ -47,19 +47,27 @@ const Landing = () => {
 
           <motion.p
             variants={staggerItem}
-            className="font-mono text-sm md:text-[15px] font-semibold text-foreground mb-4"
+            className="font-mono text-sm md:text-[15px] font-semibold text-foreground mb-1.5"
           >
-            AI Product Engineer <span className="text-primary">@ PwC Deals</span>
+            AI Product <span className="text-primary">@ PwC Deals</span>
             <span className="text-muted-foreground/50"> | </span>
             UCLA Alum 🐻
           </motion.p>
 
           <motion.p
             variants={staggerItem}
+            className="font-mono text-[13px] md:text-sm font-normal tracking-tight text-muted-foreground/80 mb-4"
+          >
+            Building agentic AI 0→1 for enterprise
+          </motion.p>
+
+          <motion.p
+            variants={staggerItem}
             className="text-lg text-muted-foreground max-w-xl leading-relaxed mb-10"
           >
-            Equal parts engineer and operator, building AI products at the
-            intersection of data and business.
+            Equal parts engineer and operator, I build AI products at the
+            intersection of data and business, and enjoy owning the full
+            product + delivery lifecycle.
           </motion.p>
 
           <motion.nav variants={staggerItem} className="mb-12">
