@@ -27,6 +27,15 @@ That's the whole loop. You never touch the React code — Claude translates your
 | `contact.md`         | `src/components/content/ContactContent.tsx`          |
 | `links.md`           | `src/config/site.ts` (the `links` object)           |
 
+## Resumes
+
+`resumes/` holds **four resumes, one per job-search track** — Applied AI / FDE, Finance / Fintech,
+Product / SWE / Tech, and Strategy / Ops / Growth. They are working documents, never imported by the app,
+and they share the same underlying record as the files above.
+
+**As of August 2026 the site and the rest of this folder track the Applied AI / FDE version**
+(`resumes/applied-ai-fde.md`). See `resumes/README.md` for the full breakdown.
+
 ## "Last updated" date
 
 The site's "Last updated" date lives in `src/config/site.ts` as `lastUpdated` (format: `"Month YYYY"`, e.g. `"June 2026"`). After any substantial content update, ask Claude to bump it.

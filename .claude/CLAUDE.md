@@ -44,6 +44,7 @@ This is the smooth path: kill strays → wipe → one deterministic `npm ci` →
 
 ```
 content/          # FREEFORM MARKDOWN — Gauresh's editable source of truth (see below)
+  resumes/        # Four resumes, one per job-search track (see Resumes below)
 src/
   pages/          # Route-level pages (one per section)
   config/
@@ -88,6 +89,27 @@ edit the matching rendered component to match. Mapping:
 | `feed.md`          | `FeedContent.tsx` |
 | `contact.md`       | `ContactContent.tsx` |
 | `links.md`         | `src/config/site.ts` → `links` |
+
+## Resumes — Four Tracks
+
+`content/resumes/` holds **four resumes maintained in parallel**, one per job-search track. They draw on the
+same underlying record as the rest of `content/` but differ in ordering, emphasis, bullet framing, and cuts.
+Like everything in `content/`, they are never imported by the app.
+
+| File | Track | Target roles |
+|---|---|---|
+| `applied-ai-fde.md` | **Applied AI / FDE** | Forward Deployed Engineer, Forward Deployed Strategist, AI PM / Technical PM, Applied AI / Solutions Architect, Strategic Projects Lead |
+| `finance-fintech.md` | Finance / Fintech | Fintech product, PE/VC-adjacent technical roles, quant-leaning analytics |
+| `product-swe-tech.md` | Product / SWE / Tech | Product Engineer, Software Engineer, Founding Engineer, PM |
+| `strategy-ops-growth.md` | Strategy / Ops / Growth | Strategy & Ops, BizOps, Chief of Staff, Growth |
+
+**As of August 2026, the site and the rest of `content/` track the Applied AI / FDE version.** That is the
+active search: engineer-forward positioning, production and customer-environment framing, shipped 0→1 products
+elevated. `about.md`, `experience.md`, `projects.md`, and `skills.md` should read consistently with it. If the
+primary track changes, that has to be stated explicitly — then re-sync the site content to the new one.
+
+When working a resume, go **section by section** rather than rewriting the whole document, and keep metrics
+consistent across all four files: a number corrected in one gets corrected in the rest.
 
 **Section nav order** lives in `src/config/site.ts` → `sections` (About, Experience, Projects, Skills,
 Achievements, Education, Fun Facts, Feed, Contact). It drives the landing grid, the top nav, and the
