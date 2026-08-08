@@ -1,20 +1,20 @@
-# Resume — FDE / AI Engineer Version
+# Resume — FDE / Forward-Deployed & AI Engineer Version
 
-Target roles: Forward Deployed Engineer, AI Engineer, Deployment Strategist, Solutions Architect, AI Product Manager.
-Positioning spine: *ships production AI in customer environments **and** owns the client room — engineers can't do the room, consultants can't ship.*
+Target roles: Forward Deployed Engineer / Strategist, AI Engineer, Deployment Strategist, Solutions Architect, AI Product Manager.
+Positioning spine: *ships production AI in customer environments **and** owns the client room — pure engineers can't do the room, consultants can't ship.*
 
 ---
 
-## Gauresh Kapoor
+## GAURESH KAPOOR
 
-Los Angeles, CA · gaureshkapoor@gmail.com · +1 (310) 562-4855
+Los Angeles, CA · Open to SF Bay Area · gaureshkapoor@gmail.com · +1 (310) 562-4855
 gaureshkapoor.com · linkedin.com/in/gaureshkapoor · github.com/GaureshKapoor
 
-**AI product engineer shipping production AI inside live customer environments.** I build and deploy LLM platforms, agentic workflows, and data pipelines embedded with Fortune 500 and PE-backed clients — and ship my own full-stack AI products 0→1 (App Store, angel-backed). Comfortable owning the architecture, the code, and the client conversation.
+AI engineer who ships in messy environments: unstructured documents, legacy data, on-prem constraints, live deadlines. I deploy LLM and agentic systems inside Fortune 500 and PE-backed client environments, and build my own full-stack AI products 0→1 — App Store published, angel-backed. Equally comfortable writing the integration code and sitting across from the exec who signs off on it.
 
 ---
 
-## Skills
+## SKILLS
 
 - **Languages:** Python, TypeScript / JavaScript, SQL, Swift, R
 - **AI & ML:** LangChain, Anthropic & OpenAI APIs, RAG, agent orchestration, RLHF, LLM evals, PyTorch, Hugging Face, OCR pipelines
@@ -24,7 +24,7 @@ gaureshkapoor.com · linkedin.com/in/gaureshkapoor · github.com/GaureshKapoor
 
 ---
 
-## Work Experience
+## WORK EXPERIENCE
 
 ### PwC — Deals, Technology & Data · Los Angeles, CA
 
@@ -62,7 +62,7 @@ gaureshkapoor.com · linkedin.com/in/gaureshkapoor · github.com/GaureshKapoor
 
 ---
 
-## Products Built & Shipped (0→1)
+## PRODUCTS BUILT & SHIPPED (0→1)
 
 **Vault** — Founder & Product Engineer · joinvault.app · Dec 2025 – Present
 
@@ -78,13 +78,21 @@ gaureshkapoor.com · linkedin.com/in/gaureshkapoor · github.com/GaureshKapoor
 
 ---
 
-## Education
+## EDUCATION
 
 **University of California, Los Angeles** · Sep 2021 – Jun 2025
 B.S. Statistics & Data Science · B.A. Business Economics · GPA 3.8 / 4.0
 
 William F. Sharpe Fellow (top 1% of UCLA business/tech undergrads) · Dean's Honor List (all 4 years)
 Databricks Certified Generative AI Engineer Associate (2025)
+
+---
+
+## Alternate summary (general-purpose / AI PM applications)
+
+Swap the FDE summary above for this when applying to product or strategist roles:
+
+> AI product engineer shipping production AI inside live customer environments — LLM platforms, agentic workflows, and data pipelines deployed with Fortune 500 and PE-backed clients. Also build and ship my own full-stack AI products 0→1 (App Store, angel-backed). I own the architecture, the code, and the client conversation.
 
 ---
 
@@ -97,8 +105,14 @@ Databricks Certified Generative AI Engineer Associate (2025)
 
 **Structural changes from the prior version:**
 
-1. Wist Health moved from Projects → Work Experience (gives a real startup role in the work history; fills Jun 2024 – Jun 2025)
+1. Wist Health moved from Projects → Work Experience (real 9-month startup role; fills Jun 2024 – Jun 2025)
 2. Projects renamed "Products Built & Shipped (0→1)"; FrameForge added, DataRes cut
-3. Summary + Skills added at top
+3. Summary + Skills added at top (skills normally sit at the bottom — moved up because technical credibility needs to land before the PwC title does)
 4. PwC bullets resequenced: build verb and production/customer context lead, metric closes
 5. Clear bullets flipped so the technical bullet leads
+
+**Open decisions:**
+
+- Location line — confirm LA vs SF Bay Area vs both
+- GitHub link — include only if public repos hold up to a technical screener's click; a sparse profile is worse than none
+- DataRes — currently cut for space; restore if a section runs short
