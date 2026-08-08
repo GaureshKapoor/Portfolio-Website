@@ -1,13 +1,22 @@
 # Resume — FDE / Forward-Deployed & AI Engineer Version
 
-Target roles: Forward Deployed Engineer / Strategist, AI Engineer, Deployment Strategist, Solutions Architect, AI Product Manager.
+**Target roles (in priority order):**
+
+1. Forward Deployed Engineer
+2. Forward Deployed Strategist
+3. AI Product Manager / Technical PM
+4. Applied AI / Solutions Architect
+5. Strategic Projects Lead
+
+Environment: high-growth Series A+ startups with autonomy and speed; select big-tech where growth and scale justify it.
+
 Positioning spine: *ships production AI in customer environments **and** owns the client room — pure engineers can't do the room, consultants can't ship.*
 
 ---
 
 ## GAURESH KAPOOR
 
-Los Angeles, CA · Open to SF Bay Area · gaureshkapoor@gmail.com · +1 (310) 562-4855
+San Francisco, CA · gaureshkapoor@gmail.com · +1 (310) 562-4855
 gaureshkapoor.com · linkedin.com/in/gaureshkapoor · github.com/GaureshKapoor
 
 AI engineer who ships in messy environments: unstructured documents, legacy data, on-prem constraints, live deadlines. I deploy LLM and agentic systems inside Fortune 500 and PE-backed client environments, and build my own full-stack AI products 0→1 — App Store published, angel-backed. Equally comfortable writing the integration code and sitting across from the exec who signs off on it.
@@ -26,7 +35,7 @@ AI engineer who ships in messy environments: unstructured documents, legacy data
 
 ## WORK EXPERIENCE
 
-### PwC — Deals, Technology & Data · Los Angeles, CA
+### PwC — Deals, Technology & Data · San Francisco, CA | Los Angeles, CA
 
 **Experienced Associate, AI & Data Solutions** (promoted from Associate) · Jun 2025 – Present
 
@@ -113,6 +122,9 @@ Swap the FDE summary above for this when applying to product or strategist roles
 
 **Open decisions:**
 
-- Location line — confirm LA vs SF Bay Area vs both
 - GitHub link — include only if public repos hold up to a technical screener's click; a sparse profile is worse than none
 - DataRes — currently cut for space; restore if a section runs short
+
+**Resolved:**
+
+- Location — now based in San Francisco, CA. Header states it plainly (no "open to" language). PwC entry shows `San Francisco, CA | Los Angeles, CA` to reflect the relocation on promotion to Experienced Associate.
