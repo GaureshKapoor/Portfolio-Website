@@ -14,6 +14,12 @@ Logo: `/logos/pwc.png` · [pwc.com](https://www.pwc.com)
 
 *A global professional-services network. Relocated to the Bay Area and geared up for more, driving AI-native product development inside the Technology & Data practice.*
 
+- Engineered and deployed an LLM-powered client delivery platform (React, LangChain, Anthropic API, Azure/AWS) that replaced the manual 10-K and quarterly filing process, cutting deliverable production from ~8 hours to 45 minutes for 20+ users.
+- Built AI agents that retrieve live financial data from client Databricks Delta Lake and generate contextual narratives for SEC reporting.
+- Designed AI-driven customer analytics dashboards on Databricks Delta Lake pipelines with LLM-based parsing for a $100B+ Financial Services client, reducing manual synthesis by 60% across 100K+ customer records.
+- Built a financial carveout engine (PyTorch, SQL, OCR pipelines) to extract and reconcile data across 500+ legal/financial docs, supporting 3 PE diligence deals totaling $800M+ and cutting manual extraction by ~70%.
+- Drove AI adoption across Deals by embedding AI-native SOPs, lifting team throughput ~200% across 15 members.
+
 ### PwC
 
 **Associate, AI & Data Solutions**
@@ -22,16 +28,11 @@ Logo: `/logos/pwc.png` · [pwc.com](https://www.pwc.com)
 
 *Built AI-native products and delivery systems across M&A tech diligence and enterprise analytics, partnering directly with Fortune 500 and PE-backed clients.*
 
-- Engineered and deployed an LLM-powered client delivery platform (React, LangChain, Anthropic API, Azure/AWS), cutting deliverable production from ~8 hours to 45 minutes via reusable agentic workflows.
-- Designed AI-driven customer analytics dashboards on Databricks Delta Lake pipelines with LLM-based parsing for a $100B+ Financial Services client, reducing manual synthesis by 60% across 100K+ customer records.
-- Built a financial carveout engine (PyTorch, SQL, OCR pipelines) to extract and reconcile data across 500+ legal/financial docs, supporting 3 PE diligence deals totaling $800M+ and cutting manual extraction by ~70%.
-- Drove AI adoption across Deals by embedding AI-native SOPs, lifting team throughput ~200% across 15 members.
-
 ---
 
 ### Wist.health
 
-**Product & Strategy Lead**
+**Product & Ops Lead**
 Jan 2025 – Sep 2025 · Los Angeles, CA
 Logo: `/logos/wist.png` · [wist.health](https://www.wist.health)
 

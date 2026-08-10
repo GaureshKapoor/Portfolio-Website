@@ -9,32 +9,32 @@ Things I've built and shipped, zero to one.
 ### Vault
 
 **Role:** Founder / Product Engineer
-**Period:** Dec 2025 – Present
+**Period:** Dec 2025 – Mar 2026
 **Link:** [joinvault.app](https://joinvault.app)
 **Stack:** Next.js, Supabase, Vercel, Stripe, PostHog, LLM / agent orchestration
 
 **Hook:** An AI-native platform for agentic ideation, task planning, and execution.
 
-Vault turns raw ideas into structured, actionable execution flows, built to make capturing a thought and shipping it feel like one motion. I'm building it solo from zero to one: full-stack on Next.js, Supabase, and Vercel, owning every core system end to end, auth, data models, agent workflows, billing, analytics, and product UX. It's where my engineer-plus-operator thesis gets tested in real time: design the architecture, ship the product, run the loop.
+Vault turns raw ideas into structured, actionable execution flows, built to make capturing a thought and shipping it feel like one motion. I built it solo from zero to one: full-stack on Next.js, Supabase, and Vercel, owning every core system end to end, auth, data models, agent workflows, billing, analytics, and product UX. It's where my engineer-plus-operator thesis got tested in real time: design the architecture, ship the product, run the loop.
 
 ---
 
 ### Ionava
 
 **Role:** Founding Engineer
-**Period:** Sep 2025 – Present
+**Period:** Sep 2025 – Dec 2025
 **Link:** [ionava.com](https://ionava.com)
 **Stack:** Full-stack web, API integrations, Secure data layers
 
 **Hook:** A production fintech wellness platform pairing financial health with everyday well-being.
 
-I launched Ionava as a full-stack production platform, owning the frontend architecture, backend services, data layers, and security. I built the stateful user flows and API integrations behind features like the Health Score and Wellness Wallet, translating financial-health planning into something a user actually returns to. Angel-backed and shipping.
+I launched Ionava as a full-stack production platform, owning the frontend architecture, backend services, data layers, and security. I built the stateful user flows and API integrations behind features like the Health Score and Wellness Wallet, translating financial-health planning into something a user actually returns to. Angel-backed and shipped to production.
 
 ---
 
 ### Wist Health
 
-**Role:** Product & Strategy Lead
+**Role:** Product & Ops Lead
 **Period:** Jan 2025 – Sep 2025
 **Link:** [wist.health](https://www.wist.health)
 **Stack:** iOS (Swift / Expo), Web, LLM conversational flows, Session-state management

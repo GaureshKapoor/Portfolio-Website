@@ -1,13 +1,30 @@
 import { useRef, useState } from "react";
 import { motion, useMotionValue, useSpring } from "framer-motion";
-import { ArrowRight } from "lucide-react";
+import {
+  ArrowRight,
+  ArrowLeftRight,
+  Blocks,
+  Bot,
+  ClipboardCheck,
+  Infinity as InfinityIcon,
+  Layers,
+  Link2,
+  Plug,
+  Search,
+  Sparkles,
+  ThumbsUp,
+  Zap,
+  type LucideIcon,
+} from "lucide-react";
 import { Reveal, RevealItem } from "@/components/Reveal";
 
-// Skills mapped to icon filenames. `colored` = render the SVG as-is (no invert);
-// the default mono icons are white SVGs inverted to match the theme.
+// Skills render either a brand SVG (`icon` → /skill-icons/<icon>.svg) or a lucide
+// component (`lucide`) for conceptual skills that have no brand mark.
+// `colored` = render the SVG as-is (no invert); default mono SVGs are inverted to theme.
 type Skill = {
   name: string;
-  icon: string;
+  icon?: string;
+  lucide?: LucideIcon;
   colored?: boolean;
 };
 
@@ -42,7 +59,12 @@ const skillGroups: { label: string; skills: Skill[] }[] = [
       { name: "PostgreSQL", icon: "postgresql" },
       { name: "MongoDB", icon: "mongodb" },
       { name: "Supabase", icon: "supabase" },
+      { name: "Databricks", lucide: Layers },
+      { name: "PySpark", lucide: Zap },
+      { name: "ETL/ELT", lucide: ArrowLeftRight },
       { name: "Docker", icon: "docker" },
+      { name: "Terraform", lucide: Blocks },
+      { name: "CI/CD", lucide: InfinityIcon },
       { name: "Vercel", icon: "vercel" },
       { name: "GitHub Actions", icon: "githubactions" },
       { name: "GitHub", icon: "github" },
@@ -54,6 +76,14 @@ const skillGroups: { label: string; skills: Skill[] }[] = [
   {
     label: "ML & AI Tooling",
     skills: [
+      { name: "LLMs & Agentic Systems", lucide: Bot },
+      { name: "LangChain", lucide: Link2 },
+      { name: "MCP", lucide: Plug },
+      { name: "RAG", lucide: Search },
+      { name: "Evals", lucide: ClipboardCheck },
+      { name: "RLHF", lucide: ThumbsUp },
+      { name: "Anthropic API", icon: "anthropic" },
+      { name: "OpenAI API", lucide: Sparkles },
       { name: "PyTorch", icon: "pytorch" },
       { name: "TensorFlow", icon: "tensorflow" },
       { name: "Scikit-learn", icon: "scikitlearn" },
@@ -195,12 +225,16 @@ function DockTile({ skill, mouseX }: {
         style={{ scale, width: BASE_SIZE, height: BASE_SIZE }}
         className="flex items-center justify-center rounded-xl border border-border bg-card cursor-default select-none overflow-hidden shrink-0"
       >
-        <img
-          src={`/skill-icons/${skill.icon}.svg`}
-          alt={skill.name}
-          className={`w-7 h-7 ${skill.colored ? "" : "invert dark:invert-0"}`}
-          draggable={false}
-        />
+        {skill.lucide ? (
+          <skill.lucide className="w-7 h-7 text-foreground" strokeWidth={1.5} />
+        ) : (
+          <img
+            src={`/skill-icons/${skill.icon}.svg`}
+            alt={skill.name}
+            className={`w-7 h-7 ${skill.colored ? "" : "invert dark:invert-0"}`}
+            draggable={false}
+          />
+        )}
       </motion.div>
     </div>
   );

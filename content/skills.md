@@ -14,11 +14,11 @@ React, Next.js, Tailwind CSS, shadcn/ui, Vite, Expo
 
 ## Backend & Infrastructure
 
-FastAPI, PostgreSQL, MongoDB, Supabase, Docker, Vercel, GitHub Actions, GitHub, AWS, Google Cloud, Azure
+FastAPI, PostgreSQL, MongoDB, Supabase, Databricks, PySpark, ETL/ELT, Docker, Terraform, CI/CD, Vercel, GitHub Actions, GitHub, AWS, Google Cloud, Azure
 
 ## ML & AI Tooling
 
-PyTorch, TensorFlow, Scikit-learn, Hugging Face, Jupyter, Ollama, OpenRouter
+LLMs & Agentic Systems, LangChain, MCP, RAG, Evals, RLHF, Anthropic API, OpenAI API, PyTorch, TensorFlow, Scikit-learn, Hugging Face, Jupyter, Ollama, OpenRouter
 
 ## Product & Analytics
 

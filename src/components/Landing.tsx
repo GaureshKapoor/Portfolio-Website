@@ -58,7 +58,7 @@ const Landing = () => {
             variants={staggerItem}
             className="font-mono text-[13px] md:text-sm font-normal tracking-tight text-muted-foreground/80 mb-4"
           >
-            Building agentic AI 0→1 for enterprise
+            Building agentic AI 0→1 for enterprise ops
           </motion.p>
 
           <motion.p

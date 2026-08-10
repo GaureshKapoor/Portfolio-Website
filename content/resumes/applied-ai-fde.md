@@ -39,7 +39,7 @@ Equal parts engineer and operator, shipping AI-native products for Fortune 500 a
 **PricewaterhouseCoopers (PwC)** — San Francisco, CA
 *Experienced Associate, AI & Data Solutions – AI Product & Deployment* · June 2025 – Present
 
-- Scoped, built, and deployed an AI reporting platform on AWS for a Fortune 500 client's finance team, replacing the manual process behind 10-K and quarterly filings, and cutting deliverable production from ~8 hours to 45 minutes for 50+ users.
+- Scoped, built, and deployed an AI reporting platform on AWS for a Fortune 500 client's finance team, replacing the manual process behind 10-K and quarterly filings, and cutting deliverable production from ~8 hours to 45 minutes for 20+ users.
 - Built AI agents that retrieve live financial data from client Delta Lake and generate contextual narratives for SEC reporting.
 - Shipped a financial carveout engine using PyTorch, OCR, and LLM parsing to reconcile data across 500+ unstructured legal and financial documents; supported 3 PE diligence deals worth $800M+ and reduced manual extraction time by ~70%.
 - Standardized AI-native delivery across 15-person practice with reusable tooling and SOPs, lifting team throughput 200%.
