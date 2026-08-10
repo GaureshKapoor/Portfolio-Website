@@ -20,74 +20,66 @@
 
 +1 (310) 562-4855 | gaureshkapoor@gmail.com | gaureshkapoor.com | linkedin.com/in/gaureshkapoor | github.com/GaureshKapoor
 
----
+### SUMMARY
 
-## WORK EXPERIENCE
+AI product engineer shipping production AI inside enterprise client environments — LLM platforms, agentic workflows, and data pipelines deployed on-prem for Fortune 500 and PE-backed clients. Built and shipped three full-stack AI products 0→1, including one published on the App Store and one angel-backed. Deep in LLM and agentic systems; broad across data pipelines, full-stack, and cloud.
 
-### PricewaterhouseCoopers (PwC) — San Francisco, CA | Los Angeles, CA
+### SKILLS
 
-**Experienced Associate, AI & Data Solutions – AI Product & Data** · June 2025 – Present
+**Languages:** Python (PyTorch, Pandas, Scikit-learn) • TypeScript • JavaScript • SQL • Swift • R • C++
+**AI / ML:** LLMs & Agentic Systems • LangChain • RAG • RLHF • NLP • Evals • Hugging Face • OpenRouter
+**Backend, Data & Cloud:** FastAPI • PostgreSQL • Supabase • Databricks • Azure • AWS • GCP • Docker • Vercel • GitHub Actions
+**Integration & Delivery:** REST APIs • OAuth/SSO • On-prem deployment • Technical scoping • Solution design • Stakeholder management
 
-- Led client-facing AI & analytics workstreams across Fortune 500 and PE-backed engagements, translating ambiguous business asks into production-ready solutions used in executive decision-making and transaction execution
-- Built a financial carveout engine that automated reconciliation across 500+ legal and financial documents for 3 PE diligence engagements totaling $800M+, reducing manual effort by ~70% and accelerating transaction timelines
-- Engineered and deployed on-prem an AI-powered delivery platform that reduced deliverable production time from ~8 hours to 45 minutes by automating repetitive workflows and standardizing agent-driven execution
-- Drove AI innovation within Deals by integrating AI-native SOPs, boosting team throughput by ~200% across 15 members
+### WORK EXPERIENCE
 
-### Zeta Global — San Francisco, CA | New York City, NY
+**PricewaterhouseCoopers (PwC)** — San Francisco, CA
+*Experienced Associate, AI & Data Solutions – AI Product & Data* · June 2025 – Present
 
-**Generative AI Product Intern – AI Agents & Zeta Opportunity Engine** · June 2023 – August 2024
+- Engineered and deployed an LLM-powered client delivery platform (React, LangChain, Anthropic API, Azure/AWS) on-prem across Fortune 500 and PE-backed client environments, cutting deliverable production from ~8 hours to 45 minutes through reusable agentic workflows
+- Built a financial carveout engine (PyTorch, SQL, OCR pipelines) to extract and reconcile data across 500+ unstructured legal and financial documents, supporting 3 PE diligence deals totaling $800M+ and cutting manual extraction ~70%
+- Designed AI-driven customer analytics dashboards on Databricks Delta Lake pipelines with LLM-based parsing for a $100B+ Financial Services client, reducing manual synthesis 60% across 100K+ customer records
+- Built reusable AI-native tooling and SOPs adopted across a 15-person Deals practice, lifting team throughput ~200% and standardizing how AI work ships to clients
 
-- Built AI workflow systems supporting client intelligence and business analytics, including RLHF-based GPT feedback loops that improved model response quality by 10%, and internal tools that reduced issue-resolution time by 25%
-- Analyzed 50M+ customer records across GTM analytics initiatives for apparel brand, identifying operational and product opportunities that contributed to an 8% improvement in monthly P&L business performance
+**Wist Health** — Los Angeles, CA
+*Product & Strategy Lead* · January 2025 – September 2025
 
-### Clear (from ClearTax) — New Delhi, India
+- Engineered and shipped a web + iOS AI wellness app (Swift/Expo, React) to the App Store through the Larta Heal.LA accelerator, taking it 0→1 from concept to production
+- Implemented LLM-powered conversational workflows and session-state management delivering context-aware reflections to users in production
+- Owned product, user discovery, and GTM across a 5-person core team; work earned a $10K GenAI & Health Innovation grant
 
-**Product Strategy & Analytics – FinTech SaaS Products** · January 2024 – June 2024
+**Zeta Global** — San Francisco, CA
+*Generative AI Product Intern – AI Agents & Zeta Opportunity Engine* · June 2024 – August 2024
 
-- Partnered with Business Ops team to modernize and simplify web app UI/UX, boosting net customers acquired by ~15%
-- Built a Python NLP model to extract tax data from images and PDFs with 68% accuracy across Clear's 130M-user platform
+- Automated a GPT feedback system using RLHF, improving AI agent response accuracy 10% across client BI workflows
+- Built a real-time retrieval interface between GenAI agents and LLM systems, cutting team debugging time 25%
 
----
+*Data Science & Analytics Intern – GTM Analytics* · New York City, NY · June 2023 – August 2023
 
-## PROJECTS & LEADERSHIP
+- Modeled 50M+ garment-sales records in Python/SQL with GTM teams in NYC and Prague, surfacing purchasing-behavior insights that drove product and operational changes improving monthly P&L 8%
 
-**Ionava** — Financial Health & Wellness Platform backed by Angel Investors · September 2025 – Present
+**ClearTax** — New Delhi, India
+*Product Strategy & Analytics – FinTech SaaS Products* · January 2024 – June 2024
 
-- Launched a production full-stack platform, owning frontend architecture, backend services, data layers and security
-- Built stateful user flows and API integrations for financial-health planning, Health Score and Wellness Wallet functionality
+- Built a Python NLP model extracting tax data from images and PDFs at 68% accuracy, deployed across ClearTax's 130M-user platform
+- Shipped a UI/UX modernization of the core web app with the Business Ops team, lifting net customers acquired ~15%
 
-**Wist Health** — B2B mental-health AI solutions under the Larta Heal.LA 2025 accelerator · January 2025 – June 2025
+### PROJECTS
 
-- Engineered a web and iOS AI wellness app with adaptive UX and personalized support flows, published via App Store
-- Implemented LLM-powered conversational workflows and session state management for guided user reflections
+**Vault** — Founder; Product Engineer | joinvault.app · December 2025 – Present
 
-**Bruin Finance Society** — External Vice President; Board Advisor · October 2023 – June 2025
+- Solo-architected and shipped a full-stack AI platform for agentic ideation, task planning, and execution (Next.js, Supabase, Vercel)
+- Own every production system 0→1: auth, data models, agent flows, billing (Stripe), analytics, and product UX
 
-- Founded UCLA's fastest-growing finance club, building a community of 1500+ members in just 18 months from inception
-- Scaled club partnerships, coordinated recruiting initiatives, and led stakeholder engagement with corporate sponsors
+**Ionava** — Founding Engineer; angel-backed financial health & wellness platform · September 2025 – Present
 
-**DataRes Consulting** — Consulting Lead; Pro-bono data consulting for local businesses · September 2021 – March 2024
+- Launched a production full-stack platform, owning frontend architecture, backend services, data layers, and security
+- Built stateful user flows and API integrations powering financial-health planning, Health Score, and Wellness Wallet
 
-- Managed teams of 5-7 consultants across client work, directing project execution, stakeholder comms, and final delivery
-- Real Estate client: Led a team of 7 to build NLP-driven valuation models and intelligence tools using Zillow live listing data
-- EdTech platform: Identified a 20% revenue uplift opportunity by analyzing user perks and ad timing across 7000+ users
+### EDUCATION
 
----
-
-## SKILLS
-
-**AI / ML:** LLMs & Agentic Systems • LangChain • RLHF • NLP • Neural Networks • Computer Vision (OpenCV) • Time Series
-**Programming:** Python (PyTorch, TensorFlow, Pandas, Scikit-learn) • SQL • TypeScript • JavaScript • Swift (iOS) • R • C++
-**Backend & Infra:** FastAPI • PostgreSQL • MongoDB • Supabase • Azure • AWS • GCP • GitHub Actions • Docker • Vercel
-**Developer Tools:** React/Next.js • Expo (React Native) • Jupyter • Stripe • Sentry • CodeRabbit • Git/GitHub • macOS/Linux
-**Product & Analytics:** A/B Testing • Databricks • Tableau • Excel • Linear • JIRA • PostHog • Openrouter • Hugging Face
-
----
-
-## EDUCATION
-
-**University of California, Los Angeles (UCLA)** — Los Angeles, CA · September 2021 – June 2025
-B.S. in Statistics and Data Science; B.A. in Business Economics (Double Major)
+**University of California, Los Angeles (UCLA)** — Los Angeles, CA
+*B.S. in Statistics and Data Science; B.A. in Business Economics (Double Major)* · September 2021 – June 2025
 
 - GPA: 3.8/4.0 | Dean's Honor List (2022-2025) | William F. Sharpe Fellow | Start-Up Nation Fellow
 - Honors: $10K GenAI & Health Innovation Grant; Innovate@UCLA Tech Challenge (1st); FBRC.ai x Luma AI Hackathon (2nd)
@@ -96,16 +88,20 @@ B.S. in Statistics and Data Science; B.A. in Business Economics (Double Major)
 
 ## Notes
 
-**Accuracy issues to fix:**
+**Cut from this version (live on other tracks):**
 
-- **Zeta dates and titles are merged incorrectly.** The entry reads *Generative AI Product Intern · June 2023 – August 2024*, but that title was Jun–Aug 2024, and the 50M+ records / GTM analytics bullet belongs to the separate *Data Science & Analytics Intern* role from Jun–Aug 2023. As written it implies a single 15-month internship and attributes the 2023 analytics work to the 2024 GenAI role.
-- **PwC location** now reads San Francisco | Los Angeles to reflect the relocation on promotion to Experienced Associate. Confirm how you want the promotion itself shown (single line vs. stacked titles).
+- Bruin Finance Society and DataRes Consulting → Strategy / Ops / Growth resume. No technical content, and they don't survive the one-page bar against Vault and Ionava.
 
-**Open decisions:**
+**Fixed in this pass:**
 
-- GitHub link — currently in the header. Keep only if the public repos hold up to a technical screener's click.
-- Whether PwC carries 4 or 5 bullets, and whether the Databricks / $100B+ Financial Services data-pipeline bullet returns (it was dropped in the current revision, leaving no data-engineering bullet at PwC).
+- Summary was Exponent's sample text verbatim ("5 years", "two startups", "incident response") — replaced with a true version following the same depth/breadth/ownership shape.
+- Zeta was duplicated with a merged entry spanning June 2023 – August 2024; split back into the two real internships.
+- Wist appeared in both Work Experience and Projects; kept in Work Experience with technical bullets.
+- PwC carried eight bullets (two drafts stacked); reduced to four.
+- "Partnered with" / "Collaborated with" replaced with ownership verbs per the "I not we" rule.
 
-**Revision log:**
+**Still open:**
 
-- Aug 2026 — restructured into `content/resumes/`; this file is the active track. Working through it section by section, starting with Work Experience.
+- How many engagements the PwC platform has run on, and how long it's been supported in production. "Maintained in production across N engagements" is the one missing FDE signal.
+- Whether the GitHub link stays — only if public repos hold up to a technical screener's click.
+- Skills line dropped Tableau, Excel, CodeRabbit, macOS/Linux as low-signal; confirm you're fine losing them.
