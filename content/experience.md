@@ -36,7 +36,11 @@ Logo: `/logos/pwc.png` · [pwc.com](https://www.pwc.com)
 Jan 2025 – Sep 2025 · Los Angeles, CA
 Logo: `/logos/wist.png` · [wist.health](https://www.wist.health)
 
-*B2B mental-health AI built under the Larta Heal.LA 2025 accelerator. I owned Product, Operations, Data, GTM, and Partnerships. Full build details live on the Projects page.*
+*B2B mental-health AI built under the Larta Heal.LA 2025 accelerator. I owned Product, Operations, Data, GTM, and Partnerships.*
+
+- Engineered a web + iOS AI wellness companion grounded in psychotherapy, shipped through TestFlight to the App Store.
+- Implemented LLM conversational flows with persistent session state so each user chat and reflection carries prior context.
+- Led product roadmap, tech architecture, discovery with clinicians, and day-to-day ops across a 5-person founding team.
 
 ---
 
