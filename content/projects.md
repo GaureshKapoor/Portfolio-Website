@@ -34,7 +34,7 @@ I launched Ionava as a full-stack production platform, owning the frontend archi
 
 ### Wist Health
 
-**Role:** Product & Ops Lead
+**Role:** Product Engineer
 **Period:** Jan 2025 – Sep 2025
 **Link:** [wist.health](https://www.wist.health)
 **Stack:** iOS (Swift / Expo), Web, LLM conversational flows, Session-state management

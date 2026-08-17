@@ -30,7 +30,7 @@ export const projects = [
   {
     slug: "wist-health",
     name: "Wist Health",
-    role: "Product & Ops Lead",
+    role: "Product Engineer",
     period: "Jan 2025 – Sep 2025",
     hook: "A web + iOS mental-health AI app, published on the App Store.",
     longDescription:
