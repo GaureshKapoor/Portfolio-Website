@@ -3,6 +3,7 @@ import { motion, useMotionValue, useSpring } from "framer-motion";
 import {
   ArrowRight,
   ArrowLeftRight,
+  BarChart3,
   Blocks,
   Bot,
   ClipboardCheck,
@@ -96,6 +97,7 @@ const skillGroups: { label: string; skills: Skill[] }[] = [
   {
     label: "Product & Analytics",
     skills: [
+      { name: "Tableau", lucide: BarChart3 },
       { name: "PostHog", icon: "posthog" },
       { name: "Stripe", icon: "stripe" },
       { name: "Sentry", icon: "sentry" },

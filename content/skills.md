@@ -22,7 +22,7 @@ LLMs & Agentic Systems, LangChain, MCP, RAG, Evals, RLHF, Anthropic API, OpenAI 
 
 ## Product & Analytics
 
-PostHog, Stripe, Sentry, Linear, Jira
+Tableau, PostHog, Stripe, Sentry, Linear, Jira
 
 ---
 

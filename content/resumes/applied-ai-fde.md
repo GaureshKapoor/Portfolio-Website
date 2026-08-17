@@ -24,32 +24,32 @@
 
 ### SUMMARY
 
-Equal parts engineer and operator, shipping AI-native products for Fortune 500 and PE-backed clients. Owned 5+ end-to-end customer deployments, from discovery to go-live. Deep expertise in agentic AI systems, full-stack engineering, data, and cloud.
+Equal parts engineer and operator, shipping AI-native products and deploying them inside Fortune 500 and PE-backed client infrastructure. Owned 5+ deployments, from discovery to go-live. Agentic AI, full-stack engineering, data, and cloud.
 
 ### SKILLS
 
-**AI/ML:** LLMs & Agentic Systems • RAG • RLHF • LangChain • Evals • MCP • APIs (Anthropic, OpenAI) • NLP • Hugging Face
+**AI/ML:** LLMs & Agentic Systems • RAG • RLHF • LangChain • Evals & Guardrails • MCP • APIs (Anthropic, OpenAI) • NLP
 **Programming:** Python (PyTorch, Pandas) • SQL • TypeScript • JavaScript • React/Next.js • Vite • Expo • Swift (iOS) • R • C++
-**Backend & Data:** Databricks (Certified GenAI Engineer) • FastAPI • PostgreSQL • MongoDB • Supabase • PySpark • ETL/ELT
+**Backend & Data:** Databricks (Certified GenAI Eng.) • FastAPI • PostgreSQL • MongoDB Atlas • Supabase • PySpark • Tableau
 **Cloud & Tools:** Azure • AWS • GCP • Docker • CI/CD • GitHub Actions • Vercel • Stripe • Sentry • PostHog • Terraform • Linear
-**Integration & Delivery:** REST APIs • OAuth/SSO • Webhooks • Technical Scoping • Solution Design • On-prem Deployment
+**Integration & Delivery:** REST APIs • OAuth/SSO (Okta, SAML) • Webhooks • Technical Scoping • VPC/On-prem Deployment
 
 ### WORK EXPERIENCE
 
 **PricewaterhouseCoopers (PwC)** — San Francisco, CA
 *Experienced Associate, AI & Data Solutions – AI Product & Deployment* · June 2025 – Present
 
-- Scoped, built, and deployed an AI reporting platform on AWS for a Fortune 500 client's finance team, replacing the manual process behind 10-K and quarterly filings, and cutting deliverable production from ~8 hours to 45 minutes for 20+ users.
-- Built AI agents that retrieve live financial data from client Delta Lake and generate contextual narratives for SEC reporting.
-- Shipped a financial carveout engine using PyTorch, OCR, and LLM parsing to reconcile data across 500+ unstructured legal and financial documents; supported 3 PE diligence deals worth $800M+ and reduced manual extraction time by ~70%.
+- Architected and deployed an AI reporting platform on Azure (FastAPI, Postgres, OpenAI) for a Fortune 500 finance team, replacing the manual 10-K and quarterly filings process; cut deliverable production from ~8 hrs to 45 min for 50+ users.
+- Built AI agents to pull live financial data from Delta Lake and draft contextual narratives for SEC reporting, gated by evals.
+- Shipped a financial carveout engine using PyTorch, OCR, and LLM parsing to reconcile data across 500+ unstructured legal and financial documents; supported 3 PE diligence deals worth $800M+ and reduced manual extraction time ~70%.
 - Standardized AI-native delivery across 15-person practice with reusable tooling and SOPs, lifting team throughput 200%.
 
 **Wist Health** — Los Angeles, CA
-*Product & Ops Lead – B2B Mental-Health AI; Larta Heal.LA Accelerator* · January 2025 – September 2025
+*Product Engineer – B2B Mental-Health AI; Larta Heal.LA Accelerator* · January 2025 – September 2025
 
-- Engineered a web + iOS AI wellness app with adaptive UI/UX and personalized support flows, published via App Store.
-- Implemented LLM-powered conversational workflows and session state management for guided user reflections in prod.
-- Led product roadmap, tech architecture, customer discovery, and day-to-day operations across a 5-person founding team.
+- Engineered a web + iOS AI wellness companion grounded in psychotherapy, shipped through TestFlight to the App Store.
+- Implemented LLM conversational flows with persistent session state so each user chat & reflection carries prior context.
+- Led product roadmap, tech architecture, discovery with clinicians, and day-to-day ops across a 5-person founding team.
 
 **Zeta Global** — San Francisco, CA
 *Generative AI Product Intern – AI Agents & Zeta Opportunity Engine* · June 2023 – August 2024
@@ -86,31 +86,28 @@ Equal parts engineer and operator, shipping AI-native products for Fortune 500 a
 
 ---
 
-## Deltas the site still needs to absorb
+## Site sync status
 
-The site (`content/*.md` and `src/components/content/*.tsx`) predates this resume. Differences to sync:
+The site (`content/*.md` and `src/components/content/*.tsx`) tracks this resume. As of the v2 sync (August 2026) the following are reconciled:
 
-| Area | Site currently says | Resume now says |
-| --- | --- | --- |
-| PwC location | Los Angeles, CA | San Francisco, CA |
-| PwC title | Associate / "AI Product & Data" | Experienced Associate — "AI Product & Deployment" |
-| Wist title | Product & Strategy Lead | Product & Ops Lead |
-| Wist dates | Jan 2025 – Sep 2025 | unchanged |
-| Vault | "Currently Building", Dec 2025 – Present | **Dec 2025 – March 2026 (closed)** |
-| Ionava | Sep 2025 – Present | **Sep 2025 – Dec 2025 (closed)** |
-| Skills | 5 loose categories, no integration/delivery group | 5 named groups incl. Integration & Delivery, MCP, Terraform |
-| About / positioning | "intersection of AI, data, product, business" | engineer + operator, deployments, Fortune 500 / PE-backed |
+| Area | State on site |
+| --- | --- |
+| PwC location / title | San Francisco, CA · Experienced Associate (with the LA → SF promotion kept as two entries) |
+| PwC bullet 1 | Azure (FastAPI, Postgres, OpenAI), 50+ users — matches resume |
+| PwC bullet 2 | "gated by evals" wording — matches resume |
+| Wist title | Product Engineer |
+| Vault / Ionava | Closed date ranges (Dec 2025 – Mar 2026 · Sep 2025 – Dec 2025) |
+| Skills | Superset of resume; Tableau added, conceptual AI/ML + delivery items carry lucide icons |
 
-Vault and Ionava being closed date ranges is the most visible change — the site currently presents both as active.
+The site is intentionally a **superset**: it keeps roles the resume cut for space (Atar, Mobalytics, CNSI, GlobalHunt, all Leadership) and splits Zeta into its two real internships. About/bio is sourced from LinkedIn and is not driven by this resume.
 
 ## Open items on the resume itself
 
-- **"Owned 5+ end-to-end customer deployments"** — be ready to name all five in an interview; it's the kind of number that gets probed first.
+- **"Owned 5+ deployments"** — be ready to name all five in an interview; it's the kind of number that gets probed first.
 - **Zeta entry** shows a single *Generative AI Product Intern* title spanning June 2023 – August 2024. The GenAI role was summer 2024; the 50M-records analytics work was a separate Data Science & Analytics internship in summer 2023.
 - **ClearTax** header reads "ClearTax India" while the bullet says "Clear's"; the location column already carries the country.
-- **"in prod"** in Wist bullet 2 is informal relative to the rest of the document.
 - **Terraform** in Skills was flagged as unconfirmed.
-- **Ionava "| Link"** is placeholder text.
+- **Vault / Ionava "| Link"** is placeholder text (the site uses the real joinvault.app / ionava.com links).
 
 ## Other tracks
 
