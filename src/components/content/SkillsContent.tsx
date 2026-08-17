@@ -329,7 +329,7 @@ function BuildJourney() {
 
 const SkillsContent = () => {
   return (
-    <Reveal className="space-y-8">
+    <Reveal className="space-y-8 overflow-x-clip">
       <RevealItem className="text-center">
         <h2 className="font-display text-3xl md:text-4xl font-bold text-foreground">Skills</h2>
         <p className="text-muted-foreground mt-2">The stack I build with, across AI, product, and data.</p>
