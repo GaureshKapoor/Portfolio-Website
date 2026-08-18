@@ -49,7 +49,7 @@ const Landing = () => {
             variants={staggerItem}
             className="font-mono text-sm md:text-[15px] font-semibold text-foreground mb-1.5"
           >
-            AI Product <span className="text-primary">@ PwC Deals</span>
+            AI Product Engineer <span className="text-primary">@ PwC</span>
             <span className="text-muted-foreground/50"> | </span>
             UCLA Alum 🐻
           </motion.p>
